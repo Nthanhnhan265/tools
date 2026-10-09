@@ -1,0 +1,1 @@
+mklink /D "%LOCALAPPDATA%\nvim" "%USERPROFILE%\Downloads\Orther apps\nvim"

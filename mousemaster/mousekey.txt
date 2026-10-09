@@ -1,0 +1,46 @@
+======================================================================
+                     1. ĐIỀU HƯỚNG CON TRỎ (DI CHUYỂN)
+======================================================================
+  [ H ] : Sang Trái (Left)          [ K ] : Lên Trên (Up)
+  [ J ] : Xuống Dưới (Down)        [ L ] : Sang Phải (Right)
+
+  Tốc độ di chuyển:
+    - Bình thường : Di chuyển tự do
+    - [ V + B ]   : Chế độ Nhanh (Fast)
+    - [ LeftShift]: Chế độ Chậm (Slow)
+    - [ CapsLock ]: Chế độ Rất chậm (Super slow - căn chỉnh tỉ mỉ)
+
+======================================================================
+                     2. CÁC NÚT CHUỘT (CLICK)
+======================================================================
+  [ ; ] : Chuột Trái (Left Click)
+  [ ' ] : Chuột Phải (Right Click)
+  [ RightShift ] : Chuột Giữa (Middle Click)
+
+======================================================================
+                     3. CUỘN TRANG (SCROLL)
+======================================================================
+  [ , ] : Cuộn Lên (Wheel Up)      [ M ] : Cuộn Xuống (Wheel Down)
+  [ N ] : Cuộn Sang Trái (Wheel Left) [. ] : Cuộn Sang Phải (Wheel Right)
+  
+======================================================================
+                     4. TÍNH NĂNG ĐẶC BIỆT & HỆ THỐNG
+======================================================================
+  [ Tab ]   : Bật/Tắt chế độ điều khiển (Enable Mod)
+  [ W ]     : Phím kích hoạt nhanh (Enable Key)
+  [ Q + P ] : Thoát chế độ (Exit)
+  [ I ]     : Click xong rồi tắt luôn (Click then disable)
+  [ U ]     : Chuyển đổi qua lại bên trái (Toggle left)
+  [ G ]     : Hiển thị lưới định vị (Grid)
+  [ F ]     : Gợi ý/Nhảy đến điểm (Hint)
+  [ R ]     : Gợi ý đệ quy (Recursive hint)
+  [ C ]     : Chọn vùng màn hình (Screen selection)
+  [ [ ]     : Quay lại (Navigate back)
+  [ ] ]     : Tiến tới (Navigate forward)
+
+======================================================================
+                     5. CÁC PHÍM BỔ TRỢ (MODIFIERS)
+======================================================================
+  [ LeftShift ]  : Giữ để làm Window mod / Chậm
+  [ LeftAlt ]    : UI Hint mod
+  [ RightAlt ]   : Cạnh màn hình (Edge)

@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run """C:\Users\nguye\Downloads\Orther apps\mousemaster\mousemaster.exe""", 0, False
