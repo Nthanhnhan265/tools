@@ -1,0 +1,10 @@
+Batch Wi-Fi Brute Forcer Result
+Target     : nhan
+At attempt : 5
+Password   : 123456789
+
+Batch Wi-Fi Brute Forcer Result
+Target     : VIETTEL_DINH LUAN
+At attempt : 104
+Password   : 11118888
+

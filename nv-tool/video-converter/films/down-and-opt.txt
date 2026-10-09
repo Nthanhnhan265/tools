@@ -1,0 +1,1 @@
+yt-dlp -f "bv*[height<=360]+ba[abr<=96]/b[height<=360]" --merge-output-format mp4 -o raw.mp4 "https://www.youtube.com/watch?v=_iinxrEMWlk"; ffmpeg -i raw.mp4 -vf "setpts=0.8*PTS" -af "atempo=1.25" -c:v libx264 -crf 28 -preset veryfast -c:a libmp3lame -b:a 96k final.mp4
